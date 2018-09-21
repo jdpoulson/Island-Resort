@@ -1,18 +1,18 @@
 h1 {
-  color: goldenrod;
+  color: peru;
   text-align: center;
 }
 
 p {
-  color: navy;
+  color: olivedrab;
 }
 
 li {
-  color: seagreen;
+  color: springgreen;
 }
 
 body {
-  background-color: indigo;
+  background-color: darkviolet;
   font-family: sans-serif;
   text-align: center;
 }
